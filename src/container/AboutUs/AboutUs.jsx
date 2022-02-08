@@ -1,11 +1,8 @@
-import React from 'react';
+import React from "react";
+import { images } from "../../constants";
 
-import './AboutUs.css';
+import "./AboutUs.css";
 
-const AboutUs = () => (
-  <div>
-    AboutUs
-  </div>
-);
+const AboutUs = () => <div>AboutUs</div>;
 
 export default AboutUs;
